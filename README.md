@@ -1,7 +1,8 @@
 # perfect_login_app
 
 A new Flutter application.
-![alt-text](https://github.com/Wassmd/FlutterApp/blob/master/dice_flutter.gif)
+
+![alt-text](https://github.com/Wassmd/FlutterApp/blob/master/login_page.png)
 
 ## Getting Started
 
